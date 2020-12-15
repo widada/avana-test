@@ -1,0 +1,12 @@
+{
+    "name": "widada/excel-validate",
+    "description": "This package for avana test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "widada",
+            "email": "wida.skydev@gmail.com"
+        }
+    ],
+    "require": {}
+}
