@@ -8,5 +8,13 @@
             "email": "wida.skydev@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        },
+        "classmap": ["src/types"]
+    }
 }
