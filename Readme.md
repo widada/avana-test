@@ -19,7 +19,7 @@ echo $testSheet;
 ```
 - You can test on terminal using this command `php test.php`
 - Run this script if you want to test on browser `php -S localhost:8000 -t .` 
-- Open your browser http://localhost:8000
+- Open your browser http://localhost:8000/test.php
 
 ### How to support other Type_*.xlsx?
 For now, this package only support file `Type_A.xlsx` and `Type_B.xlsx` , but you can support other files like
